@@ -1,0 +1,4 @@
+{
+  "MODE": "dev",
+  "AVAILABLE_MODES": ["dev", "prod"]
+}
